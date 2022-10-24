@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Lerning Arduino',
-  domain: 'https://ambiguous-spring-f71.notion.site/Getting-Started-bad65caebbcd46bbb94514db960c3ad3',
+  domain: 'https://ambiguous-spring-f71.notion.site/Personal-Home-1210963deefc48639c4006b52d52d3ab',
   author: 'Chenhd',
 
   // open graph metadata (optional)
